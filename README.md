@@ -1,7 +1,8 @@
-# Daisai dApp
+# Vote dApp
 Only Running to Ropsten.
 
-Daisai BoardGame
+rerun rackup
+
 
 ## Donate
 
