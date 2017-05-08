@@ -1,6 +1,6 @@
 solidity ^0.4.10;
 
-contract Daisai {
+contract VoteProfessor {
 
   unit public maxBetLimit;
   unit public minBetLimit;
